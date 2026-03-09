@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+redis
+kazoo
+pydantic-settings
+
+# Testing
+httpx
+pytest
+pytest-asyncio
+
+# UI
+streamlit
+requests

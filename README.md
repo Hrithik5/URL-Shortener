@@ -3,7 +3,7 @@
 A small-scale, high-performance URL shortener built with **FastAPI**, **Redis**, and **ZooKeeper**, featuring a full graphical testing dashboard via **Streamlit**.
 
 ## Architecture Diagram
-![URL Shortner](URL Shortner Architecture.png)
+![URL Shortner](URL_Shortener_Architecture.png)
 
 ## Features
 

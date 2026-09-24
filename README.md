@@ -2,6 +2,9 @@
 
 A small-scale, high-performance URL shortener built with **FastAPI**, **Redis**, and **ZooKeeper**, featuring a full graphical testing dashboard via **Streamlit**.
 
+## Architecture Diagram
+![URL Shortner](URL Shortner Architecture.png)
+
 ## Features
 
 - **Blazing Fast API**: Built on top of FastAPI and Uvicorn.
